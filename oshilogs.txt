@@ -12,35 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alsya =====
-[1]Alsya       |11:53:53 | 24-11-2026| login OK @alsyasalsa | score=3510 rank=2135
-[1]Alsya       |11:53:53 | 24-11-2026| serverTime=2026-11-24T11:53:53.000Z local=2026-11-24T11:53:53.331Z
+[1]Alsya       |10:45:54 | 25-11-2026| login OK @alsyasalsa | score=3530 rank=2135
+[1]Alsya       |10:45:54 | 25-11-2026| serverTime=2026-11-25T10:45:54.000Z local=2026-11-25T10:45:54.142Z
 --> [1]Alsya menjalankan: Claim Daily
-[1]Alsya       |11:53:55 | 24-11-2026| daily: OK +10 poin score=3520
---> [1]Alsya menjalankan: Auto All Tasks (1 pending)
-[1]Alsya       |11:53:57 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/alsyasalsa/status/2125195714281284238
-[1]Alsya       |11:53:57 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alsya       |11:53:59 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/alsyasalsa/status/2125195913315410432
+[1]Alsya       |10:45:56 | 25-11-2026| daily: OK +10 poin score=3540
+--> [1]Alsya menjalankan: Auto All Tasks (2 pending)
+[1]Alsya       |10:45:58 | 25-11-2026| [1/2] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/alsyasalsa/status/2125541139550732829
+[1]Alsya       |10:45:58 | 25-11-2026| delay 10s...
+[1]Alsya       |10:46:10 | 25-11-2026| [2/2] cccd5ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212545341837459 | proof=https://x.com/alsyasalsa/status/2125541153324153891
+[1]Alsya       |10:46:10 | 25-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alsya       |10:46:12 | 25-11-2026| [1/1] f7b82d41 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f7b82d41-5dac-4ef2-9d40-7befdeea1bdc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125453418374590 | proof=https://x.com/alsyasalsa/status/2125541176777022348
 --> [1]Alsya menjalankan: Watch Anime
-[1]Alsya       |11:54:00 | 24-11-2026| watch: semua video sudah completed
+[1]Alsya       |10:46:13 | 25-11-2026| watch: semua video sudah completed
 --> [1]Alsya menjalankan: Read Article
-[1]Alsya       |11:54:01 | 24-11-2026| news: 34/34 artikel selesai dibaca
-[1]Alsya       |11:54:02 | 24-11-2026| mint eligibility: {"userId":"1711177405291982848","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Alsya       |11:54:02 | 24-11-2026| news: semua artikel sudah dibaca
+[1]Alsya       |10:46:14 | 25-11-2026| news: 34/34 artikel selesai dibaca
+[1]Alsya       |10:46:15 | 25-11-2026| mint eligibility: {"userId":"1711177405291982848","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Alsya       |10:46:15 | 25-11-2026| news: semua artikel sudah dibaca
 --> [1]Alsya menjalankan: Quiz Anime
 --> [1]Alsya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alsya       |11:54:03 | 24-11-2026| music: kedua misi sudah tercapai, stop
-[1]Alsya       |11:54:04 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Alsya       |11:54:04 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Alsya       |11:54:04 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Alsya       |10:46:16 | 25-11-2026| music: kedua misi sudah tercapai, stop
+[1]Alsya       |10:46:17 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Alsya       |10:46:17 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Alsya       |10:46:17 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alsya menjalankan: Claim Missions
-[1]Alsya       |11:54:04 | 24-11-2026| mission music-listens-10: sudah diklaim
-[1]Alsya       |11:54:04 | 24-11-2026| mission music-minutes-30: sudah diklaim
-[1]Alsya       |11:54:04 | 24-11-2026| mission anime-completed-3: sudah diklaim
+[1]Alsya       |10:46:17 | 25-11-2026| mission music-listens-10: sudah diklaim
+[1]Alsya       |10:46:17 | 25-11-2026| mission music-minutes-30: sudah diklaim
+[1]Alsya       |10:46:17 | 25-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Alsya menjalankan: Check Eligibility
 
 --- eligibility [1]Alsya ---
-  @alsyasalsa | score=3510 rank=2135
-  tasks    [#################---] 5/6
+  @alsyasalsa | score=3530 rank=2135
+  tasks    [############--------] 3/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Alsya menjalankan: Read Manga
-[1]Alsya       |11:54:07 | 24-11-2026| manga: 0/13 chapter belum completed
+[1]Alsya       |10:46:19 | 25-11-2026| manga: 0/13 chapter belum completed
 --> [1]Alsya menjalankan: Get Gift
-[1]Alsya       |11:54:09 | 24-11-2026| gift: 3/12 belum diterima
-[1]Alsya       |11:54:10 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Alsya       |11:54:13 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Alsya       |11:54:16 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alsya       |10:46:21 | 25-11-2026| gift: 3/12 belum diterima
+[1]Alsya       |10:46:22 | 25-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alsya       |10:46:25 | 25-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Alsya       |10:46:28 | 25-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Alsya menjalankan: Setup Profile
-[1]Alsya       |11:54:18 | 24-11-2026| profile: bio="https://x.com/alsyasalsa" fav=oshi rewardAt=1791685772
-[1]Alsya       |11:54:18 | 24-11-2026| profile: bonus sudah diklaim, skip
+[1]Alsya       |10:46:30 | 25-11-2026| profile: bio="https://x.com/alsyasalsa" fav=oshi rewardAt=1791685772
+[1]Alsya       |10:46:30 | 25-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Alsya menjalankan: Bind Wallet
-[1]Alsya       |11:54:19 | 24-11-2026| wallet: sudah terikat CUou6WsUoA... (solana)
+[1]Alsya       |10:46:31 | 25-11-2026| wallet: sudah terikat CUou6WsUoA... (solana)
 
 == RINGKASAN ==
-- Alsya: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Alsya: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
